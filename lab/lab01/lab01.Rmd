@@ -192,6 +192,7 @@ p2 <- NULL # FILL IN WITH INTEGER
 ```{r}
 . = ottr::check("tests/p2.R")
 ```
+
 ```{r five-wrong-again}
 # This is a REALLY WRONG answer. Change it back to 5 afterwards to compare the autograder response!
 p3 <- NULL # FILL IN WITH STRING
