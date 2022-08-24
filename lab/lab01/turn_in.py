@@ -9,7 +9,7 @@ from os.path import isfile, join
 
 # Change these for each assignment
 ASSIGNMENT_RMD_PATH = "lab01.Rmd"
-COURSE_ID = 41212
+COURSE_ID = 412128
 PROGRAMMING_ASSIGNMENT_ID = 2191786
 
 # Don't change these
