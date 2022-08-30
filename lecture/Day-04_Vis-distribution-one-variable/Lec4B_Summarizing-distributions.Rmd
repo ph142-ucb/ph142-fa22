@@ -1,8 +1,8 @@
 ---
 title: "Chapter 2: Describing Distributions with Numbers"
 author: "Corinne Riddell"
-date: "August 31, 2022"
-output: slidy_presentation
+date: "Aug  31, 2022"
+output: pdf_document
 ---
 
 ```{r load-libraries, echo = F, message=F}
@@ -326,7 +326,7 @@ ggplot(CS_dat, aes(x = cs_rate)) +
 ### Spread of cesarean delivery rates across US hospitals
 - What can you say about this distribution? Would you expect so much variation 
 across hospitals in their rates of cesarean delivery? 
-- Let's describe the **spread** of these data using the methods from Chapter 2.
+- Let's describe the **spread** of these data.
 
 ### The inter-quartile range (IQR)
 
@@ -376,7 +376,7 @@ CS_dat %>% summarize(
 - `quantile(variable, 0.25)` will not always give the exact same answer you 
 calculate by hand
 - The R function is optimized for its statistical properties and is slightly 
-different than the textbook's method
+different from the simple method
 - To get the exact same answer as by hand use `quantile(data, 0.25, type = 2)`
 - You may use either one in this class. Most commonly, people do not specify
 `type=2`

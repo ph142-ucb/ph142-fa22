@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: Picturing Distributions with Graphs"
 author: "Corinne Riddell"
-date: "August 31, 2022"
+date: "Aug 31, 2022"
 output: pdf_document
 ---
 
@@ -14,11 +14,11 @@ library(forcats)
 
 ### Learning objectives for today:
 
-1. Link textbook terminology to R terminology
-2. What are the four types of variables?
-3. Visualization of categorical data: use `ggplot`'s `geom_bar()`
-4. Visualization of continuous data: use `ggplot`'s `geom_histogram()`
-5. Describe distributions based on their shape, center, and spread.
+
+1. What are the four types of variables?
+2. Visualization of categorical data: use `ggplot`'s `geom_bar()`
+3. Visualization of continuous data: use `ggplot`'s `geom_histogram()`
+4. Describe distributions based on their shape, center, and spread.
 
 ### Readings
 
@@ -92,7 +92,7 @@ Categorize each variable as nominal, ordinal, discrete, or continuous:
     - Difficult to judge the area of the smallest slices
     - Areas of the smallest (largest) slices are under-judged (over-judged)
     
-- We will not use pie charts in this class (except when looking at the output from Google forms!!)
+- We will not use pie charts in this class
 
 ### Visualization of categorical data
 
