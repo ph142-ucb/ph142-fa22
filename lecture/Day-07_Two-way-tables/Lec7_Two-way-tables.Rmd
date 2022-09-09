@@ -1,7 +1,7 @@
 ---
 title: "Lec 7:  Relationships between two categorical variables (Two-way tables)"
 author: "Corinne Riddell"
-date: "September 11, 2022"
+date: "September 9, 2022"
 output: pdf_document
 editor_options: 
   chunk_output_type: console
