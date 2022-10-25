@@ -42,16 +42,17 @@ Step 5: Once you enter, you should be able to run the following chunks from Lab 
 ```{r select-key}
 #Note: Remember to remove `#Lab1XXB: ` before running the chunk!
 
-#Lab101B: my_key <- "10VAX5LuKjzLLW-pUSO6C9IlHxmU55uIAFenqvj_phCk"
-#Lab102B: my_key <- "1DNuJdbm9dP6XjFIfHQ_wSSBK9XWNzD2XKJeIXtcx1jQ"
-#Lab103B: my_key <- "1Gg1-YXZX89CJvGGAKUym0GHOG2VDIlwqrX-p3k9YYPQ"
-#Lab104B: my_key <- "1K-83UnarAdOWXETV9fxu5xmfKbOGupNREEEjPwFSY3A"
-#Lab105B: my_key <- "16sgiQcBU9YTTyY08WeFKgozqa_bUJV19DNqvyYfkNVU"
-#Lab106B: my_key <- "1Ru_oZozCRTpMOhuWrr48k-y2BjckUjmYaIbce7Tmfhk"
-#Lab107B: my_key <- "1DkmXln-OoPwXmFv0NvFzQPR1eYAm7Rf1HIprjQ6AjD0"
-#Lab108B: my_key <- "1J31SlmRPnsjOQ1UrgHLQ8RDl_z7KEv4xXbrP4nwyuIY"
-#Lab109B: my_key <- "1vNyTDTrExD6cDZuKQYDY0rXe-0oWaBBV6c48Anp5LyA"
-#Lab110B: my_key <- "1f04hHZA7Vn36Xu62iWStBPnX6oSAAE7LGOStN9rwjmA"
+#Lab101B: my_key <- "1z3xO4NpSqMxdT2xftqxITTK26sH2_oWktnkKGl2dOeE"
+#Lab102B: my_key <- "1mfzrw4kIQWU4uz_nrdagcKPYCAr1g7IpTx2sIeNKtYU"
+#Lab103B: my_key <- "1e1vP61xGXa_L5DGWnPmf0-q5WyGEdC1SVAYGswX4I80"
+#Lab104B: my_key <- "1jnEteDfsytJVjNQ6pIZpOERG75M66I0LuVUDggzd8Zk"
+#Lab105B: my_key <- "15fxwBqobsNU2vhS5bRcHKWr1akjawy-XdsXvRnDLdls"
+#Lab106B: my_key <- "1Ds_2PoyQeCOVatt2uLfguzZs-VNFKjE9Tg-Yug4PRTg"
+#Lab107B: my_key <- "1uXGzAhHAPcmJK0uvK3a0eMrtts43uU-47eWoFHv3Qog"
+#Lab108B: my_key <- "1vNWkEzK6EUbETpfZkXSVa8tLAX9mOsG-sXHPyZcQMwg"
+#Lab109B: my_key <- "13D8zcZclUEAkvd7JkHNgy_KnupYLNkQJNymQEFTlfHs"
+#Lab110B: my_key <- "1hOQ__UtnTB544Mf8IlI3AMnOfTYaiVit-WP8Wiqe76o"
+#Lab111B: my_key <- "1rik2NqFwmI2o-QLxGb0gkaWFsDcBnbPBdtefkqf8lW0"
 #sample: my_key <- "1v9Mvm2hAOB3orINrcbVldJaH1UHcsotynn91Ppyi7OY"
 
 ```
