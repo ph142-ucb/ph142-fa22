@@ -78,7 +78,7 @@ _Type your answer here, replacing this text._
 
 Here is an illustration of how spread works:
 ```{r}
-knitr::include_graphics("src/lab08-pivot-wider-function.png")
+knitr::include_graphics("src/lab08-spread-function.png")
 ```
 
 ```{r}
